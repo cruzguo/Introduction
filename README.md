@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @cruzguo
+- 👀 I’m interested in data science, video game creation, and AI. 
+- 🌱 I’m currently studying computer science at Georgia Institute of Technology.
+- 💞️ I’m looking to collaborate on projects or any internships related to data science and AI.
+- 📫 You can reach me through email: cruzguo0628@gmail.com
+- 💡This is hub for me to show my personal projects!
